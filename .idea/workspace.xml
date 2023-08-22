@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a35d9bf-30cf-4544-82f3-875f8dea3ee5" name="变更" comment="" />
+    <list default="true" id="0a35d9bf-30cf-4544-82f3-875f8dea3ee5" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://C:/ProgramData/anaconda3/Lib/site-packages/matplotlib/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/P0821.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,5 +55,12 @@
       <updated>1683451217899</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="new_row" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
